@@ -1,2 +1,2 @@
-- 🔭 Currently working on **Teclógica** 🚀
+- 🔭 Currently working on **Teclógica**
 - 🌱 Currently learning REACT, NODEJS, JAVA and SPRINGBOOT
