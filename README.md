@@ -1,5 +1,2 @@
-### Hi there, I'm Maicon 👋
-
-
 - 🔭 Currently working on **Teclógica** 🚀
-- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, REACT, NODEJS
+- 🌱 Currently learning REACT, NODEJS, JAVA and SPRINGBOOT
