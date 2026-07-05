@@ -1,2 +1,1 @@
-- 🔭 Currently working on **Teclógica**
-- 🌱 Currently developing in TYPESCRIPT, REACT, NODEJS, JAVA and SPRINGBOOT
+Linux - C - TypeScript - NodeJS - Java - Docker
